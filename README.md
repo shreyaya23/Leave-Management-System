@@ -1,4 +1,3 @@
----
 
 # Leave Management System (ASP.NET Core + EF Core + SQL Server)
 
@@ -15,8 +14,6 @@ This project allows employees to apply for leave and enables admins to manage le
 * **Delete Leave Request** → Remove a leave request permanently.
 * **Database Integration** → Uses **Entity Framework Core (Code-First)** with **SQL Server**.
 * **Swagger Integration** → API documentation and testing made easy.
-
----
 
 
 
